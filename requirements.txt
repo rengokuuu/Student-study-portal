@@ -1,0 +1,7 @@
+-pip install wikipedia
+-dictionary api
+-books api
+-__init__.py
+-pip install crispy_forms_tags
+-Django = 3.2.8
+-python = 3.10.0
